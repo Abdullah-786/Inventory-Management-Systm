@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xh/pcilUBgiSfM5aenOtDn0QFgvYm14w+F7gPgH9Pa9PGxTJK+OubuCPZvSMBzHE+6oli2G/VztEyM836IvGJQ==",
+  "dgSpecHash": "KlUkA9wGSWKRDiJq1rDZykhIgp/h6gPUw8GeIVHmQUHjOoXTy/SdofV4AynoJRYCRMeIEvl6jTlYVvW83zdJ4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Abdul\\OneDrive\\Desktop\\pic\\IMS PROJCT\\Inventory-Management-System\\Inventory-Management-System.csproj",
+  "projectFilePath": "C:\\Users\\Abdul\\source\\repos\\Inventory-Management-Systm\\Inventory-Management-System\\Inventory-Management-System.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abdul\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Abdul\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
