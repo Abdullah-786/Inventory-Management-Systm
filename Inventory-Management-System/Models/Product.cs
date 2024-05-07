@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Inventory_Management_System.Models
 {
+    //This is Model class
    
     public class Product
     {
