@@ -14,7 +14,7 @@ namespace Inventory_Management_System.Models
         public string ProductName { get; set; }
 
         [Required]
-        public double Price { get; set; }
+        public decimal Price { get; set; }
 
         [Required]
         public int Qty { get; set; }
